@@ -66,4 +66,7 @@ require("lazy").setup({
 
 	-- autosave
 	{"pocco81/auto-save.nvim"},
+
+	-- LaTeX
+	{"lervag/vimtex"}
 })
